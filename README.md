@@ -1,3 +1,3 @@
 ```sh
-ayo --esm index.js
+ayo --esm ayo/index.js
 ```
